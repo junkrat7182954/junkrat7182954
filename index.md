@@ -24,6 +24,18 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+
+<!-- Place this code where you'd like the game to appear -->
+<div class="miniclip-game-embed" data-game-name="commando-2" data-theme="5" data-width="590" data-height="400" data-language="en"><a href="https://www.miniclip.com/games/commando-2/">Play Commando 2</a></div>
+<p style="text-align:center;">
+    <a href="https://www.miniclip.com/games/commando-2/" target="_blank">Play Commando 2</a> -
+    <a href="https://www.miniclip.com/games/genre-5/" target="_blank">More Shoot 'Em Up games</a> -
+    <a href="https://www.miniclip.com/terms" target="_blank">Terms and Conditions</a> -
+    <a href="https://www.miniclip.com/privacy" target="_blank">Privacy Policy</a>
+</p>
+
+<!-- Insert this code before your </body> tag -->
+<script src="//static.miniclipcdn.com/js/game-embed.js"></script>
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
